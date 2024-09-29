@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a comprehensive implementation of a Variational Autoencoder (VAE) for image generation and fine-tuning on custom datasets. The primary goal is to demonstrate the process of adapting a pre-trained VAE model to generate high-quality images based on user-defined parameters.
+This repository provides a comprehensive implementation of a Variational Autoencoder (VAE) for image generation and fine-tuning on custom datasets. The primary goal is to demonstrate the process of adapting a pre-trained VAE model to generate images based on user-defined parameters.
 
 ## Table of Contents
 
@@ -14,8 +14,7 @@ This repository provides a comprehensive implementation of a Variational Autoenc
   - [Generating Images](#generating-images)
 - [Dataset](#dataset)
 - [Training Process](#training-process)
-- [Example](#example)
-- [License](#license)
+
 
 ## Features
 
